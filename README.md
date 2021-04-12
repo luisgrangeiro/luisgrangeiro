@@ -4,7 +4,7 @@ Me chamo Luis Grangeiro, sou estudande de Ciência da Computação na UERJ e tra
 - 🎓 Estudante de Ciência da Computação.
 - 🖥️ Desenvolvedor de Software
 - 📚 Tentando aprender mais sobre linguagens, principalmente funcionais.
-- 🎮 ⚽ Hoobies
+- 🎮 ⚽ Hobbies
 
 [![Grangeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgrangeiro)](https://github.com/anuraghazra/github-readme-stats)
 
