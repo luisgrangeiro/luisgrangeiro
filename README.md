@@ -1,6 +1,6 @@
  ## Hello world ! :wave:
 
-Me chamo Luis Grangeiro, sou estudande de Ciência da Computação na UERJ e trabalho como Desenvolvedor de Software na Mundipagg(Stone Co.).  
+Me chamo Luis Grangeiro, sou estudande de Ciência da Computação na UERJ e trabalho como Desenvolvedor de Software na Mundipagg (Stone Co.).  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-carlos-grangeiro-de-souza-49958210a/)](https://www.linkedin.com/in/luis-carlos-grangeiro-de-souza-49958210a/)
 
