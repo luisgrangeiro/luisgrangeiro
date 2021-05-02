@@ -7,7 +7,6 @@ Me chamo Luis Grangeiro, sou estudande de Ciência da Computação na UERJ e tra
 - 📍 Rio de Janeiro, Brasil
 - 🎓 Estudante de Ciência da Computação.
 - 🖥️ Desenvolvedor de Software
-- 📚 Tentando aprender mais sobre linguagens, principalmente funcionais.
 - 🎮 ⚽ 🎸 📺 Hobbies
 
 ---
